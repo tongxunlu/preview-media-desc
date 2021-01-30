@@ -1,4 +1,4 @@
-# preview-image-video
+# preview-image-video-自定义组件预览图+视频
 ## 微信小程序preview-media带有图片描述
 
 ### 示例动图
